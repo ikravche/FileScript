@@ -1,1 +1,2 @@
-touch /home/adminos/file.txt
+cat  > /home/adminos/file.txt  
+safgdhsd
